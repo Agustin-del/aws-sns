@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-sns": "^3.699.0",
+    "dotenv": "^16.4.5"
+  }
+}
